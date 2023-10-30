@@ -1,5 +1,7 @@
 ---
 title: "Infrastructure as Code in practice: Building a Blue Team lab with Bicep"
+description: "In this post we'll explore using Bicep to automate the deployment of a Blue Team lab environment in Azure consisting of an Active Directory domain, Microsoft Sentinel and the Azure Monitor Agent..."
+image: "/assets/img/2022-03-17-building-a-blue-team-lab-with-bicep/cropped-BlueTeamLab.png"
 date: "2022-03-17"
 categories: 
   - "Azure"

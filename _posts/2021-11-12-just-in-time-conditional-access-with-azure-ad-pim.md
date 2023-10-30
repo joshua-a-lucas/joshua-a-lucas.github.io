@@ -1,5 +1,7 @@
 ---
 title: "Just-in-time conditional access with Azure AD Privileged Identity Management"
+description: "In this post we'll explore using privileged access groups to implement time-based conditional access policy exclusions and impose app enforced restrictions in SharePoint and Exchange Online..."
+image: "/assets/img/2021-11-12-just-in-time-conditional-access-with-azure-ad-pim/enable-privileged-access.png"
 date: "2021-11-12"
 categories: 
   - "Azure"

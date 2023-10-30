@@ -1,5 +1,7 @@
 ---
 title: "Creating a codeless data connector for Microsoft Sentinel"
+description: "In this post we'll explore the process of using the new Codeless Connector Platform (Preview) to ingest Atlassian Jira audit logs into Microsoft Sentinel..."
+image: "/assets/img/2022-04-25-creating-a-codeless-data-connector-for-microsoft-sentinel/cropped-dataconnector-ui-zoomed.png"
 date: "2022-04-25"
 categories: 
   - "Azure"
