@@ -28,8 +28,8 @@ url: "https://joshua-lucas.com"
 github:
   username: joshua-a-lucas # change to your github username
 
-twitter:
-  username: joshua_a_lucas # change to your twitter username
+# twitter:
+  # username: joshua_a_lucas # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +38,11 @@ social:
   email: josh@joshua-lucas.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/joshua_a_lucas # change to your twitter homepage
+    - https://www.linkedin.com/in/joshua-a-lucas
+    # - https://twitter.com/joshua_a_lucas # change to your twitter homepage
     - https://github.com/joshua-a-lucas # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/joshua-a-lucas
 
 google_site_verification: # fill in to your verification string
 
