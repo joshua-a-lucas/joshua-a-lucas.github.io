@@ -12,6 +12,9 @@ tags:
   - "sharepoint-online"
 ---
 
+> **Warning:** this post has not been updated since 2022, and is likely outdated. Please refer to Microsoft's documentation for more up-to-date information.
+{: .prompt-warning }
+
 ## Introduction
 
 Microsoft curate a list of [common conditional access policies](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policy-common) that align with their best-practice recommendations for securing Azure Active Directory, including requiring multi-factor authentication for all users and blocking legacy authentication protocols, just to name a few. These policies are great, but in practise they can be difficult to implement. One of the challenges that many organisations face is the ability to handle exclusions in a manner that is compliant with their regulatory requirements, such as the need to audit all exemptions, ensure they go through a proper approval process and enforce compensating controls.

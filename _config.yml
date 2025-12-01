@@ -16,10 +16,10 @@ timezone: "Australia/Melbourne"
 
 title: Josh Lucas # the main title
 
-tagline: Cyber Security Analyst # it will display as the sub-title
+tagline: Incident Response Consultant # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  I'm Josh - a Cyber Security Analyst with a passion for malware analysis, digital forensics and incident response.
+  I'm Josh - an Incident Responder with a passion for cloud security, digital forensics and malware analysis.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.

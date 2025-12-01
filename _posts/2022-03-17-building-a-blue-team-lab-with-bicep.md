@@ -12,6 +12,9 @@ tags:
   - "microsoft-sentinel"
 ---
 
+> **Warning:** this post has not been updated since 2022, and is likely outdated. Please refer to Microsoft's documentation for more up-to-date information.
+{: .prompt-warning }
+
 ## Introduction
 
 Experienced cyber security professionals often recommend students looking to break into the industry invest in a home lab, and I wholeheartedly agree - it's one of the best ways to learn fundamental concepts such as networking, Windows internals and Active Directory administration by putting these skills into practice in a self-contained environment. However, if you're anything like me you'll tend to spin up new lab environments on a whim only to then rip them down and recreate them a few days later, which can quickly become onerous. You know the saying - if you do it more than once, automate it - and what better way to do that than with Infrastructure as Code?

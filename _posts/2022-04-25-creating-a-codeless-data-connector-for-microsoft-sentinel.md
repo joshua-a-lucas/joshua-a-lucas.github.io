@@ -12,6 +12,9 @@ tags:
   - "microsoft-sentinel"
 ---
 
+> **Warning:** this post has not been updated since 2022, and is likely outdated. Please refer to Microsoft's documentation for more up-to-date information.
+{: .prompt-warning }
+
 ## Introduction
 
 Microsoft recently introduced the [Codeless Connector Platform](https://docs.microsoft.com/en-us/azure/sentinel/create-codeless-connector) - a new preview feature for Microsoft Sentinel that enables partners, developers and power users with the ability to create custom connectors to ingest data from third-party REST APIs without writing a single line of code. Key features of the platform include:
