@@ -1,6 +1,5 @@
 #  The contact options.
 
-<<<<<<< HEAD
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url: 'https://www.linkedin.com/in/joshua-a-lucas/'
@@ -10,13 +9,6 @@
 
 # - type: twitter
 #   icon: "fa-brands fa-x-twitter"
-=======
-- type: github
-  icon: "fab fa-github"
-
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
->>>>>>> v7.4.1
 
 - type: email
   icon: "fas fa-envelope"
@@ -25,21 +17,12 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
-<<<<<<< HEAD
-
-=======
->>>>>>> v7.4.1
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
-<<<<<<< HEAD
-# - type: stack-overflow
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
-=======
 # - type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Linkedin homepage
@@ -59,4 +42,3 @@
 # - type: threads
 #   icon: 'fa-brands fa-threads'
 #   url: ''                   # Fill with your Threads profile link
->>>>>>> v7.4.1
